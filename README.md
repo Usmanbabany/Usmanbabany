@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usmanbabany
+- 👋 Hi, I’m Usman Haruna 
 - 👀 I’m interested in Artificial Neural Networ
 - 🌱 I’m currently learning python and react 
 - 💞️ I’m looking to collaborate on any related projects 
